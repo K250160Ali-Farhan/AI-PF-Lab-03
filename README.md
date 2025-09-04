@@ -6,5 +6,5 @@
 </br>
 _This text is italic_
 </br>
-`This text is underlined`
+~This text is highlighted~
 Learning Github
