@@ -10,9 +10,17 @@ _This text is italic_
 </br>
 ~This text is intersected~
 </br>
+Unordered List
+</br>
+
 - List 1
 - List 2
 - List 3
 </br>
+
+Ordered List
+1. List 1
+2. List 2
+3. List 3
 
 Learning Github
