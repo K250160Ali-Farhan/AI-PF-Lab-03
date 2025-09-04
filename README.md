@@ -6,5 +6,7 @@
 </br>
 _This text is italic_
 </br>
-~This text is highlighted~
+`This text is highlighted`
+</br>
+~This text is intersected~
 Learning Github
