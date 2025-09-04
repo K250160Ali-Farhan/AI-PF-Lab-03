@@ -9,4 +9,10 @@ _This text is italic_
 `This text is highlighted`
 </br>
 ~This text is intersected~
+</br>
+- List 1
+- List 2
+- List 3
+</br>
+
 Learning Github
