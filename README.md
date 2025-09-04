@@ -2,4 +2,5 @@
 ## Heading 2
 ### Heading 3
 
+**This is a bold text**
 Learning Github
