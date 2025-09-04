@@ -2,5 +2,9 @@
 ## Heading 2
 ### Heading 3
 
-**This is a bold text**
+**This text is bold**
+</br>
+_This text is italic_
+</br>
+`This text is underlined`
 Learning Github
