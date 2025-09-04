@@ -32,12 +32,4 @@ Nested List
      - Grand Child1
 
 </br>
-
-Task Lists
-- [x] #739
-- [ ] Task :tada:
-</br>
-
-# Heading added by the branch
-
 Learning Github
